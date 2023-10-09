@@ -25,7 +25,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VladyslavYermolenko&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZusPlay&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=VladyslavYermolenko&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=ZusPlay&label=Profile%20Views&color=11&icon=5&pretty=true)
